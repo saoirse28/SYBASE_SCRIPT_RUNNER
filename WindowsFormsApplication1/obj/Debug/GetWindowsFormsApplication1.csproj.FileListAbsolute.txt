@@ -1,0 +1,15 @@
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\GetWindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\GetWindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClosedXML.dll
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\FastMember.Signed.dll
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sybase.Data.AseClient.dll
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClosedXML.xml
+C:\Users\efmacalalad\Documents\Visual Studio 2015\Projects\GitWindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DocumentFormat.OpenXml.xml
